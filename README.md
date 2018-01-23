@@ -1,7 +1,8 @@
 # my_chat_with_nodejs
 NodeJS based Text Real Time Chat Room.
 
-#Quick start
+TECH USED- Express js , Node js, Socket.io, JQuery
+
 
 # clone the repo
 git clone https://github.com/Niravshah06/my_chat_with_nodejs.git 
