@@ -6,9 +6,9 @@ functionalities included
 
 Group Text Chatting,
 Broadcast a message to connected users when someone connects or disconnects,
-Add support for nicknames,
+ support for nicknames,
 Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.,
-Add “{user} is typing” functionality,
+ “{user} is typing” functionality,
 Show who’s online and number of users online.
 
 # Steps to get Started
